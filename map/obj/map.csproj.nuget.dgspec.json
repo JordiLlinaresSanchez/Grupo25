@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "U:\\hlocal\\Grupo25\\map\\map.csproj": {}
+  },
+  "projects": {
+    "U:\\hlocal\\Grupo25\\map\\map.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "U:\\hlocal\\Grupo25\\map\\map.csproj",
+        "projectName": "map",
+        "projectPath": "U:\\hlocal\\Grupo25\\map\\map.csproj",
+        "packagesPath": "C:\\Users\\usuario_local\\.nuget\\packages\\",
+        "outputPath": "U:\\hlocal\\Grupo25\\map\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\software\\programacion\\MSVStudio2017\\Shared\\NuGetPackages",
+          "c:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario_local\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
