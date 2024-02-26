@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "U:\\hlocal\\Grupo25\\map\\map.csproj": {}
+    "C:\\hlocal\\Grupo25\\map\\map.csproj": {}
   },
   "projects": {
-    "U:\\hlocal\\Grupo25\\map\\map.csproj": {
+    "C:\\hlocal\\Grupo25\\map\\map.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\hlocal\\Grupo25\\map\\map.csproj",
+        "projectUniqueName": "C:\\hlocal\\Grupo25\\map\\map.csproj",
         "projectName": "map",
-        "projectPath": "U:\\hlocal\\Grupo25\\map\\map.csproj",
+        "projectPath": "C:\\hlocal\\Grupo25\\map\\map.csproj",
         "packagesPath": "C:\\Users\\usuario_local\\.nuget\\packages\\",
-        "outputPath": "U:\\hlocal\\Grupo25\\map\\obj\\",
+        "outputPath": "C:\\hlocal\\Grupo25\\map\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\software\\programacion\\MSVStudio2017\\Shared\\NuGetPackages",
