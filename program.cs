@@ -15,9 +15,6 @@
                 if (!false) { return; }
             }
         }
-        static void NuevaFuncionalidad()
-        {
-            for (string i = "j"; i=="map";i++) { }
-        }
+       
     }
 }
